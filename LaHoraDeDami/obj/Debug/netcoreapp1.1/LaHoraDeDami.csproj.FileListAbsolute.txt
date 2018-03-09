@@ -1,0 +1,10 @@
+C:\Users\Cristian\source\repos\LaHoraDeDami\LaHoraDeDami\bin\Debug\netcoreapp1.1\LaHoraDeDami.deps.json
+C:\Users\Cristian\source\repos\LaHoraDeDami\LaHoraDeDami\bin\Debug\netcoreapp1.1\LaHoraDeDami.runtimeconfig.json
+C:\Users\Cristian\source\repos\LaHoraDeDami\LaHoraDeDami\bin\Debug\netcoreapp1.1\LaHoraDeDami.runtimeconfig.dev.json
+C:\Users\Cristian\source\repos\LaHoraDeDami\LaHoraDeDami\bin\Debug\netcoreapp1.1\LaHoraDeDami.dll
+C:\Users\Cristian\source\repos\LaHoraDeDami\LaHoraDeDami\bin\Debug\netcoreapp1.1\LaHoraDeDami.pdb
+C:\Users\Cristian\source\repos\LaHoraDeDami\LaHoraDeDami\obj\Debug\netcoreapp1.1\LaHoraDeDami.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\source\repos\LaHoraDeDami\LaHoraDeDami\obj\Debug\netcoreapp1.1\LaHoraDeDami.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\LaHoraDeDami\LaHoraDeDami\obj\Debug\netcoreapp1.1\LaHoraDeDami.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\LaHoraDeDami\LaHoraDeDami\obj\Debug\netcoreapp1.1\LaHoraDeDami.dll
+C:\Users\Cristian\source\repos\LaHoraDeDami\LaHoraDeDami\obj\Debug\netcoreapp1.1\LaHoraDeDami.pdb
